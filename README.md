@@ -21,8 +21,9 @@ Before running the project, ensure you have the following installed:
 <!-- INSTALLATION & SETUP -->
 
 1. Clone the repository:
- gitbclone https://github.com/OHIHON-RAPHEL/cargo-shipment.git
- cd cargo-shipment
+ * git clone https://github.com/OHIHON-RAPHEL/cargo-shipment.git
+ 
+ * cd cargo-shipment
 
 2. install depences
 
