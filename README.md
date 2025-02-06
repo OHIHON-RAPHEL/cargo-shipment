@@ -29,23 +29,7 @@ Before running the project, ensure you have the following installed:
 
  * npm install
 
-3. Set up Tailwind CSS (Ensure it's properly configured):
-
- * npm install tailwindcss @tailwindcss/vite
-
-  Verify that vite.config.js contains:
-
-  * import { defineConfig } from 'vite'
-  * import react from '@vitejs/plugin-react'
-  * import tailwindcss from '@tailwindcss/vite'
-
-  * export default defineConfig({
-  * plugins: [react() , tailwindcss()],
-  * })
-
-  Also, add Tailwind to src/index.css:
-
-  * @import "tailwindcss";
+ * npm install -D vite
 
 
 <!-- RUNING THE PROJECT LOCALLY -->
