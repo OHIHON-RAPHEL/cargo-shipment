@@ -13,7 +13,6 @@ const ProgressBar = ({ step }) => {
     );
 };
 
-
 const StepThree = ({ prevStep, formData }) => {
     return (
         <div className="max-w-[500px] w-[90%] p-[20px] bg-[#e0e0e0] rounded-[20px] shadow-[10px_10px_20px_#bebebe,_-10px_-10px_20px_#ffffff]">
