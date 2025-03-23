@@ -9,6 +9,7 @@ const App = () => {
 
     const nextStep = () => setStep(step + 1);
     const prevStep = () => setStep(step - 1);
+    
 
     return (
         <div className="min-h-screen flex items-center justify-center bg-[#e0e0e0]">
